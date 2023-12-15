@@ -1,0 +1,137 @@
+{
+  "version": "0.1.1",
+
+  "mailpoet_api_key": "67ba22e56e84b8eb80b3685caf38d2a0",
+  "mailpoet_list_id": "3",
+  "subcription_widget": {
+    "enable": true,
+    "title": "Đăng ký nhận tin mới",
+    "description": "Nhận thông báo khi tôi xuất bản nội dung mới và hủy đăng ký bất kỳ lúc nào.",
+    "placeholder": "Nhập địa chỉ email của bạn",
+    "success_message": "Cảm ơn bạn đã đăng ký. Bạn đang ở trong!",
+    "error_message": "Đã xảy ra lỗi. Vui lòng thử lại. Nếu vấn đề vẫn tiếp diễn, bạn có thể liên hệ với tôi."
+  },
+  "newsletter_section": {
+    "enable": true,
+    "title": "Tham gia bản tin của chúng tôi 🎉",
+    "description": "Đọc và chia sẻ những quan điểm mới về bất kỳ chủ đề nào. Mọi người đều được chào đón.",
+    "right_image": "/images/SVG-subcribe2.png",
+    "features_list": ["Tạo một tài khoản miễn phí.", "Viết câu chuyện của bạn."]
+  },
+  "top_banner": {
+    "enable": true,
+    "description": "Nhận ngay tín dụng 5600K Google Ads!.",
+    "end_link": {
+      "url": "#",
+      "text": "Nhận ngay  →",
+      "new_tab": false
+    }
+  },
+
+  "top_category_section": {
+    "enable": true,
+    "title": "Khám phá 10 danh mục hàng đầu",
+    "sub_title": "Hãy cùng khám phá các danh mục phổ biến nhất"
+  },
+
+  "site_info": {
+    "site_title": "Đặng Ngọc Sơn",
+    "site_description": "Sáng Tạo và Chia Sẻ Kiến Thức về Thiết Kế Website và Quảng Cáo Trực Tuyến",
+    "site_keywords": "dang ngoc son",
+    "site_author": "Đặng Ngọc Sơn",
+    "site_email": "admin@dangngocson.com",
+    "site_phone": "0913851853",
+    "site_address": "Dương Thị Mười",
+    "site_city": "Thành phố Hồ Chí Minh",
+    "site_state": "Quận 12",
+    "site_zip": "700000",
+    "site_country": "Việt Nam",
+    "site_url": "https://dangngocson.com",
+    "site_logo": "/logo.png",
+    "site_logo_light": "/logo-light.png",
+    "site_favicon": "/favicon.png"
+  },
+
+  "site_socials": [
+    {
+      "name": "facebook",
+      "url": "https://www.facebook.com/ngocsonr",
+      "icon": "/images/socials/facebook.svg",
+      "description": "Xem Facebook"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/ngocsonr",
+      "icon": "/images/socials/x-twitter.svg",
+      "description": "Xem Twitter"
+    },
+
+    {
+      "name": "github",
+      "url": "https://www.github.com/ngocsonr",
+      "icon": "/images/socials/github.svg",
+      "description": "Xem Github"
+    },
+    {
+      "name": "tiktok",
+      "url": "https://www.tiktok.com/ngocsonr",
+      "icon": "/images/socials/tiktok.svg",
+      "description": "Xem Tiktok"
+    }
+  ],
+
+  "site_footer": {
+    "all_rights_reserved_text": "© 2023 Dang Ngoc Son Blog. All rights reserved."
+  },
+
+  "submissions-settings": {
+    "enable": true,
+    "max_categories_allowed": 3,
+    "max_tags_allowed": 5
+  },
+
+  "signUp_page": {
+    "title": "Tạo một tài khoản",
+    "sub_title": "Nhập email của bạn dưới đây để tạo tài khoản của bạn.",
+    "blockquote": {
+      "text": "Thư viện này đã giúp tôi tiết kiệm vô số giờ làm việc và giúp tôi cung cấp những thiết kế tuyệt đẹp cho khách hàng của mình nhanh hơn bao giờ hết.",
+      "author": "Đặng Ngọc Sơn"
+    }
+  },
+
+  "signIn_page": {
+    "title": "Đăng nhập vào tài khoản của bạn",
+    "sub_title": "Nhập email của bạn dưới đây để đăng nhập vào tài khoản của bạn.",
+    "blockquote": {
+      "text": "Thư viện này đã giúp tôi tiết kiệm vô số giờ làm việc và giúp tôi cung cấp những thiết kế tuyệt đẹp cho khách hàng của mình nhanh hơn bao giờ hết.",
+      "author": "Đặng Ngọc Sơn"
+    },
+    "lost_password": {
+      "is_use_lostpassword_default_of_wp": false,
+      "message": "Mất mật khẩu chưa được thực hiện! Hãy liên hệ với quản trị viên để được hỗ trợ.",
+      "url_lostpassword_default_of_wp": "https://wp.dangngocson.com/wp-login.php?action=lostpassword"
+    }
+  },
+
+  "mobile_nav_sidebar": {
+    "description": "Khám phá những bài viết nổi bật nhất về mọi chủ đề của cuộc sống. Viết câu chuyện của bạn và chia sẻ chúng với cộng đồng. "
+  },
+  "help_page": {
+    "uri": "/helps",
+    "title": "Giúp đỡ",
+    "sub_title": "Đọc và chia sẻ những quan điểm mới về bất kỳ chủ đề nào. Mọi người đều được chào đón."
+  },
+  "document_page": {
+    "uri": "/documents",
+    "title": "Tài liệu",
+    "sub_title": "Đọc và chia sẻ những quan điểm mới về bất kỳ chủ đề nào. Mọi người đều được chào đón."
+  },
+  "cookies_policy_page": {
+    "uri": "#"
+  },
+
+  "empty_state": {
+    "title": "không có kết quả nào được tìm thấy.",
+    "description": "Chúng tôi không thể tìm thấy bất kỳ kết quả nào. Hãy thử cái gì khác."
+  }
+}
